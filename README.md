@@ -1,0 +1,2 @@
+# US-Bikeshare-Data
+i. Used Python to US Bikeshare data. ii. Calculated statistics and built an interactive environment to where a user chooses a data and a filter for the data to analyze. iii.  Various packages were used to carry out advanced tasks. iv.  Raw input was solicited and handled correctly to guide the interactive question-answering experience. v.  Descriptive statistics are computed and used to answer the questions posed about the data.
